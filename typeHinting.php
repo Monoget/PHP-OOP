@@ -8,7 +8,7 @@
     }
 
     class Student{
-        public function names(){
+        public function namestest(){
             return ["Monoget","Shuvo","Riya","Swarna"];
         }
     }
